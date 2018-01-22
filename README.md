@@ -1,0 +1,2 @@
+# TestAz
+VM templates
